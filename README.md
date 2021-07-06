@@ -1,11 +1,11 @@
 # auth-api
 ## lab 8
 
-- <a href=  class=""><span      class="label">go to heroku app </span></a>
+- <a href=https://rulaalqasem-server-deploy-dev.herokuapp.com  class=""><span      class="label">go to heroku app </span></a>
 
-- <a href=  class=""><span class="label">go to gitHub </span></a>
+- <a href=https://github.com/RulaAlqasem/auth-api  class=""><span class="label">go to gitHub </span></a>
 
-- <a href= class=""><span class="label"> pull request </span></a> 
+- <a href=https://github.com/RulaAlqasem/auth-api/pull/1 class=""><span class="label"> pull request </span></a> 
 
 
 ## Over-view 
